@@ -10,7 +10,7 @@ This project applies **Natural Language Processing (NLP)** and a **Naive Bayes c
 - 🔤 **Language**: Python
 - 🧹 **Preprocessing**: Tokenization, stop-word removal, stemming
 - 📊 **Evaluation**: Accuracy, Precision, Recall, F1-Score
-- 📁 **Dataset**: Product or movie review dataset (can be CSV or plain text)
+- 📁 **Dataset**: review dataset (can be CSV or plain text)
 
 ---
 
